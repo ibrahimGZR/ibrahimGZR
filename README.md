@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
   <!-- <a href="https://www.linkedin.com/in/ibrahimgezer92/" target=new><img src="https://i.ibb.co/Sf8y588/Ads-z-tasar-m-1.png" border="0"></a> -->
 
-###  Junior Web Developer!!
+####  Web yazılım geliştircisiyim.
 
 - 🌱 .Net Core öğreniyorum.
 - 📫 Email: ibrahimgezer92@gmail.com 
