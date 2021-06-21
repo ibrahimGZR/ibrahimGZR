@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 ## Merhaba, Ben İbrahim 👋
 
   <!-- <a href="https://www.linkedin.com/in/ibrahimgezer92/" target=new><img src="https://i.ibb.co/Sf8y588/Ads-z-tasar-m-1.png" border="0"></a> -->
-  <a href="mailto:ibrahimgezer92@gmail.com" target=new><img src="https://img.shields.io/badge/-Mail-orange?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ibrahimgezer92/" target=new><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ibrahimgezer92@gmail.com"><img src="https://img.shields.io/badge/-Mail-orange?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ibrahimgezer92/"><img src="https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
   
 ####  Web yazılım geliştircisiyim.
