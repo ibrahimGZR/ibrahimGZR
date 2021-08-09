@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 ####  Web yazılım geliştircisiyim.
 
 - .Net Core ve Angular öğreniyorum.
+- Java öğreniyorum.
 
 
 
