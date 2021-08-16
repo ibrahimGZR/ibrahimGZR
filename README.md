@@ -32,6 +32,7 @@ Here are some ideas to get you started:
 ### Languages and Tools:
 
 <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"></img>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=java&logoColor=white"></img>
 
 <img src="https://img.shields.io/badge/-ASP.NET%20MVC-orange?style=for-the-badge&logo=.net&logoColor=white"></img>
 <img src="https://img.shields.io/badge/.NETCore-black?style=for-the-badge&logo=.net&logoColor=white"></img>
